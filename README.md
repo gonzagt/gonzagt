@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning JavaScript and most of its uses!
 - 🌱 I’m currently learning JavaScript, along with HTML & CSS.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on Twitter @gonzagt_js!
 
 <!---
 gonzagt/gonzagt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
