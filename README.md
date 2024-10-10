@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gonzagt.
 - 👀 I’m interested in JavaScript and most of its uses!
-- 🌱 I’m currently learning JavaScript, along with HTML & CSS.
+- 🌱 I’m currently learning JavaScript, along with HTML & CSS for ✨Frontend✨ purposes.
+- 🧙 Also learning Java and OOP for ✨Backend✨ purposes.
 - 📫 gonzagt.js@gmail.com
 
 <!---
